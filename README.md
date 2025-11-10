@@ -27,7 +27,7 @@ Matplotlib and Seaborn (for visualizations)
 
 1. Open the project in GitHub.
    
-2. Click on the notebook in the `notebooks/` folder and go to `.ipynb`.
+2. Click on the notebook in the `notebooks/` folder and go to `Data_pipeline_project.ipynb`.
    
 3. Click the **"Open in Colab"** button at the top of the notebook (or use the link below).
 
@@ -41,8 +41,11 @@ https://colab.research.google.com/drive/1DRBp7CkKFnQ6BX1-mJrj78-KRvo-fO4Q?authus
 
 ## 📚 Learnings
 
+Extracting column on pandas and separate those columns
+Save the data on my google drive using pandas
 
 
 ## 😥 Challenges
 
 Cleaning the data
+Fixing the encoding error on MySQL for importing data as csv
