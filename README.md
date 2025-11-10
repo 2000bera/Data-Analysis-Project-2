@@ -56,18 +56,18 @@ https://colab.research.google.com/drive/1DRBp7CkKFnQ6BX1-mJrj78-KRvo-fO4Q?authus
 
 ## 📚 Learnings
 
-Extracting data column on pandas and separate those columns
+- Extracting data column on pandas and separate those columns
 
-Save the data on my google drive using pandas
+- Save the data on my google drive using pandas
 
-JSON Handling on pandas
+- JSON Handling on pandas
 
 ## 😥 Challenges
 
-Cleaning the data
+- Cleaning the data
 
-Fixing the encoding error on MySQL for importing data as csv
+- Fixing the encoding error on MySQL for importing data as csv
 
-Handling nested JSON fields (rating column).
+- Handling nested JSON fields (rating column).
 
-Maintaining API consistency during data pulls.
+- Maintaining API consistency during data pulls.
