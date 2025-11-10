@@ -7,25 +7,25 @@ The project demonstrates skills in data extraction, cleaning, visualization, and
 
 ## Dataset
 
-Source: https://fakestoreapi.com/products
+- Source: https://fakestoreapi.com/products
 
-Type: JSON REST API (20 sample e-commerce products)
+- Type: JSON REST API (20 sample e-commerce products)
 
 ## 🛠 Tools Use and Libraries
 
-Tableau
+1. Tableau
 
-MySQL
+2. MySQL
 
-Google Colab (Python environment)
+3. Google Colab (Python environment)
 
-Python 3
+4. Python 3
 
-Pandas (for data handling)
+- Pandas (for data handling)
 
-Matplotlib and Seaborn (for visualizations)
+- Matplotlib and Seaborn (for visualizations)
 
-Requests (for API handling)
+- Requests (for API handling)
 
 ## ✈ How to Run (Google Colab)
 
@@ -42,15 +42,15 @@ https://colab.research.google.com/drive/1DRBp7CkKFnQ6BX1-mJrj78-KRvo-fO4Q?authus
 
 ## 📟 Visualization
 
-Tool: Tableau - https://public.tableau.com/app/profile/layola.bera/viz/End-to-EndE-commerceProduct/Dashboard1#1
+1. Tool: Tableau - https://public.tableau.com/app/profile/layola.bera/viz/End-to-EndE-commerceProduct/Dashboard1#1
 
-Key Insights:
+2. Key Insights:
 
-Price distribution by category
+- Price distribution by category
 
-Relationship between price and number of ratings
+- Relationship between price and number of ratings
 
-Top-rated products
+- Top-rated products
 
 <img width="999" height="799" alt="Dashboard 1" src="https://github.com/user-attachments/assets/ed408f5f-bbcb-4771-ba29-105bb08b09e6" />
 
