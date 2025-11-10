@@ -2,11 +2,14 @@
 
 ## Project Description:
 
-End-to-End E-commerce Product
+End-to-End E-commerce Product - An end-to-end data analysis project analyzing e-commerce products using data from the Fake Store API.
+The project demonstrates skills in data extraction, cleaning, visualization, and storage using modern data tools
 
 ## Dataset
 
-https://fakestoreapi.com/products
+Source: https://fakestoreapi.com/products
+
+Type: JSON REST API (20 sample e-commerce products)
 
 ## 🛠 Tools Use and Libraries
 
@@ -42,10 +45,13 @@ https://colab.research.google.com/drive/1DRBp7CkKFnQ6BX1-mJrj78-KRvo-fO4Q?authus
 ## 📚 Learnings
 
 Extracting column on pandas and separate those columns
+
 Save the data on my google drive using pandas
 
 
 ## 😥 Challenges
 
 Cleaning the data
+
 Fixing the encoding error on MySQL for importing data as csv
+
