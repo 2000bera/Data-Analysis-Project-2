@@ -25,6 +25,8 @@ Pandas (for data handling)
 
 Matplotlib and Seaborn (for visualizations)
 
+Requests (for API handling)
+
 ## ✈ How to Run (Google Colab)
 
 
@@ -39,6 +41,16 @@ Open in Colab:
 https://colab.research.google.com/drive/1DRBp7CkKFnQ6BX1-mJrj78-KRvo-fO4Q?authuser=0#scrollTo=923-WAo_kSBY
 
 ## 📟 Visualization
+
+Tool: Tableau - https://public.tableau.com/app/profile/layola.bera/viz/End-to-EndE-commerceProduct/Dashboard1#1
+
+Key Insights:
+
+Price distribution by category
+
+Relationship between price and number of ratings
+
+Top-rated products
 
 <img width="999" height="799" alt="Dashboard 1" src="https://github.com/user-attachments/assets/ed408f5f-bbcb-4771-ba29-105bb08b09e6" />
 
