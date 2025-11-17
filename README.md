@@ -62,7 +62,7 @@ https://colab.research.google.com/drive/1DRBp7CkKFnQ6BX1-mJrj78-KRvo-fO4Q?authus
 
 - JSON Handling on pandas
 
-## 😥 Challenges
+## 😥 Challeng
 
 - Cleaning the data
 
